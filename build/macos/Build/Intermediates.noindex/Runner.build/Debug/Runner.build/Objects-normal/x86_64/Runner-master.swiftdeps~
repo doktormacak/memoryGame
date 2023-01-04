@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "2bd00f57b9faaf51ec1f1c248caf62bbb0a226a4a3d7799cea93aa7aafa8c409"
+build_start_time: [1672856981, 891902923]
+build_end_time: [1672856981, 976181983]
+inputs:
+  "/Users/andrija/Desktop/memoryGame/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1672856955, 262027025]
+  "/Users/andrija/Desktop/memoryGame/macos/Runner/AppDelegate.swift": !private [1646278331, 0]
+  "/Users/andrija/Desktop/memoryGame/macos/Runner/MainFlutterWindow.swift": !private [1646278331, 0]
